@@ -44,9 +44,11 @@ Furthermore, many other studies support and provided basis for the research cond
 
 4. Reflection
 
-Overall, one of the common themes I noticed involved the logical fallacy of hasty generalization. Similar to the article written by Eric Worrall, many articles primarily base their entire point on one aspect of a scientific article, without doing their due diligence to research other related papers. If Worrall had done his research, he would have discovered that the scientific papers were not undermining wealth and socioeconomic status as a major contributor to the lack of diet diversity in children, but rather supporting the argument of the current crisis around the globe. In addition, many of the news articles tend to exaggerate their point, even if they have correctly identified the main point from the research article cited. This causes their readers to misunderstand the point that is being constructed since a short news article is likely more appealing to the public than a scientific paper. 
+Overall, one of the common themes I noticed involved the logical fallacy of hasty generalization. Similar to the article written by Eric Worrall, many articles primarily base their entire point on one aspect of a scientific article, without doing their due diligence to research other related papers. If Worrall had done his research, he would have discovered that the scientific papers were not undermining wealth and socioeconomic status as a major contributor to the lack of diet diversity in children, but rather supporting the argument of the current crisis around the globe. In addition, many of the news articles tend to exaggerate their point, even if they have correctly identified the main point from the research article cited. This causes their readers to misunderstand the point that is being constructed since a short news article is likely more appealing to the public than a scientific paper.  
+
  
-5. References   
+5. References     
+
 - Elks, S., 2021. Scientists warn climate change is harming children’s diets. Japan Today. [online] 19 Jan. Available at: <https://japantoday.com/category/features/health/scientists-warn-climate-change-is-harming-children's-diets> [Accessed 1 Feb. 2021].
 - Fanzo, J., Davis, C., McLaren, R. and Choufani, J., 2018. The effect of climate change across food systems: Implications for nutrition outcomes. Global Food Security, 18, pp.12–19.
 - Myers, S.S., Smith, M.R., Guth, S., Golden, C.D., Vaitla, B., Mueller, N.D., Dangour, A.D. and Huybers, P., 2017. Climate Change and Global Food Systems: Potential Impacts on Food Security and Undernutrition. Annual Review of Public Health, 38(1), pp.259–277.
