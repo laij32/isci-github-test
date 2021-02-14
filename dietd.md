@@ -1,4 +1,4 @@
-# Climate Claims Assignment - Does Climate Change have a Significant Impact on Diet Diversity? - Jonathan Lai (400183044)
+# Climate Claims Assignment - Jonathan Lai (400183044)
 
 # Evaluating whether Climate Change has a Significant Impact on Diet Diversity in Children Around the World
 
@@ -10,10 +10,10 @@ Furthermore, many other studies support and provided basis for the research cond
 
 # *References*
 
-- Elks, S., 2021. Scientists warn climate change is harming children’s diets. Japan Today. [online] 19 Jan. Available at: <https://japantoday.com/category/features/health/scientists-warn-climate-change-is-harming-children's-diets> [Accessed 1 Feb. 2021].
+- Elks, S., 2021. Scientists warn climate change is harming children’s diets. Japan Today. [online] 19 Jan. Available at: <https://<span></span>japantoday.com/category/features/health/scientists-warn-climate-change-is-harming-children's-diets> [Accessed 1 Feb. 2021].
 - Fanzo, J., Davis, C., McLaren, R. and Choufani, J., 2018. The effect of climate change across food systems: Implications for nutrition outcomes. Global Food Security, 18, pp.12–19.
 - Myers, S.S., Smith, M.R., Guth, S., Golden, C.D., Vaitla, B., Mueller, N.D., Dangour, A.D. and Huybers, P., 2017. Climate Change and Global Food Systems: Potential Impacts on Food Security and Undernutrition. Annual Review of Public Health, 38(1), pp.259–277.
 - Niles, M.T., Emery, B.F., Wiltshire, S., Brown, M.E., Fisher, B. and Ricketts, T.H., 2021. Climate impacts associated with reduced diet diversity in children across nineteen countries. Environmental Research Letters, 16(1), p.015010.
 - Phalkey, R.K., Aranda-Jan, C., Marx, S., Höfle, B. and Sauerborn, R., 2015. Systematic review of current efforts to quantify the impacts of climate change on undernutrition. Proceedings of the National Academy of Sciences of the United States of America, 112(33), pp.E4522-4529.
-- Worrall, E., 2021. Study: Global Warming will Impact Children’s Nutrition. Watts Up With That?. [online] 20 Jan. Available at: <https://wattsupwiththat.com/2021/01/20/study-global-warming-will-impact-childrens-nutrition/> [Accessed 1 Feb. 2021].
+- Worrall, E., 2021. Study: Global Warming will Impact Children’s Nutrition. Watts Up With That?. [online] 20 Jan. Available at: <https://<span></span>wattsupwiththat.com/2021/01/20/study-global-warming-will-impact-childrens-nutrition/> [Accessed 1 Feb. 2021].
 
